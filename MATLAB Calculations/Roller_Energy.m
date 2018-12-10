@@ -6,7 +6,7 @@ full speed
 %}
 
 RPM = 1600;
-I = 806; %kg*mm^2
+I = 788; %kg*mm^2
 
 w = (RPM/60)*2*pi;
 
